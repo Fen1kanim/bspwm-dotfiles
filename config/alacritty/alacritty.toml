@@ -1,6 +1,6 @@
 [font]
 builtin_box_drawing = true
-size = 17.0
+size = 11.0
 
 [font.bold]
 style = "Bold"
@@ -41,8 +41,3 @@ dynamic_title = true
 opacity = 1
 title = "Alacritty"
 
-[window.class]
-general = "Alacritty"
-instance = "Alacritty"
-
-[terminal]
